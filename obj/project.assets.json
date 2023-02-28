@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Klaudia\\.nuget\\packages\\": {}
+    "C:\\Users\\Arkadiusz\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Klaudia\\Documents\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\Arkadiusz\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\Klaudia\\Documents\\MvcMovie\\MvcMovie.csproj",
-      "packagesPath": "C:\\Users\\Klaudia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Klaudia\\Documents\\MvcMovie\\obj\\",
+      "projectPath": "C:\\Users\\Arkadiusz\\MvcMovie\\MvcMovie.csproj",
+      "packagesPath": "C:\\Users\\Arkadiusz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Arkadiusz\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Klaudia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Arkadiusz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.309\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
